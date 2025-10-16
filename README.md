@@ -1,159 +1,166 @@
+# 👋 Hi, I'm Luis (@gwicho38)
 
-     # 👋 Hi, I'm Luis (@gwicho38)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-lefv-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lefv)
+[![Website](https://img.shields.io/badge/Website-lefv.info-00ADD8?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.lefv.info)
+[![Email](https://img.shields.io/badge/Email-luis@lefv.io-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luis@lefv.io)
 
-     [![LinkedIn](https://img.shields.io/badge/LinkedIn-lefv-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lefv)
-     [![Website](https://img.shields.io/badge/Website-lefv.info-00ADD8?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.lefv.info)
-     [![Email](https://img.shields.io/badge/Email-luis@lefv.io-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luis@lefv.io)
+**Full Stack Software Engineer | MS in CS @ UIUC**
 
-     **Full Stack Software Engineer | MS in CS @ UIUC**
+</div>
 
-     </div>
+---
 
-     ---
+## 🚀 Featured Projects
 
-     ## 🚀 Featured Projects
+### ⚡ [Outlet](https://www.outlet.rent) - EV Charging Marketplace
 
-     ### ⚡ [Outlet](https://www.outlet.rent) - EV Charging Marketplace
-     > *Airbnb for Electric Vehicle Charging*
+> *Airbnb for Electric Vehicle Charging*
 
-     [![Outlet Tests](https://github.com/EverlongTechnologies/Outlet/actions/workflows/test-validation.yml/badge.svg)](https://github.com/EverlongTechnologies/Outlet)
-     [![Flutter](https://img.shields.io/badge/Flutter-3.0+-02569B?logo=flutter)](https://flutter.dev)
-     [![Phoenix](https://img.shields.io/badge/Phoenix-1.7-FF6600?logo=phoenixframework)](https://phoenixframework.org)
+[![Outlet Tests](https://github.com/EverlongTechnologies/Outlet/actions/workflows/test-validation.yml/badge.svg)](https://github.com/EverlongTechnologies/Outlet)
+[![Flutter](https://img.shields.io/badge/Flutter-3.0+-02569B?logo=flutter)](https://flutter.dev)
+[![Phoenix](https://img.shields.io/badge/Phoenix-1.7-FF6600?logo=phoenixframework)](https://phoenixframework.org)
 
-     A full-stack peer-to-peer marketplace connecting EV drivers with charging station hosts. Built with **Flutter** (iOS/Android/Web) and **Phoenix/Elixir** backend.
+A full-stack peer-to-peer marketplace connecting EV drivers with charging station hosts. Built with **Flutter** (iOS/Android/Web) and **Phoenix/Elixir** backend.
 
-     **🎯 Key Features:**
-     - 📍 Google Maps integration with real-time location search
-     - 💳 Stripe Connect payment processing with host payouts
-     - 🔐 JWT authentication with OAuth (Google, Apple)
-     - ⏱️ Real-time charging session monitoring via WebSockets
-     - 📊 Analytics dashboard for hosts and guests
-     - 🚗 Smart vehicle integration (Smartcar API)
+**🎯 Key Features:**
 
-     **🛠️ Tech Stack:**
-     - **Frontend:** Flutter, Dart, Provider, GoRouter, Material Design 3
-     - **Backend:** Phoenix/Elixir, PostgreSQL + PostGIS, Redis, Oban
-     - **Infrastructure:** Fly.io, Docker, GitHub Actions
-     - **Integrations:** Stripe, Google Maps, Firebase, Tigris Storage
+- 📍 Google Maps integration with real-time location search
+- 💳 Stripe Connect payment processing with host payouts
+- 🔐 JWT authentication with OAuth (Google, Apple)
+- ⏱️ Real-time charging session monitoring via WebSockets
+- 📊 Analytics dashboard for hosts and guests
+- 🚗 Smart vehicle integration (Smartcar API)
 
-     [🔗 Try Outlet](https://www.outlet.rent) | [📱 View Code](https://github.com/EverlongTechnologies/Outlet)
+**🛠️ Tech Stack:**
 
-     ---
+- **Frontend:** Flutter, Dart, Provider, GoRouter, Material Design 3
+- **Backend:** Phoenix/Elixir, PostgreSQL + PostGIS, Redis, Oban
+- **Infrastructure:** Fly.io, Docker, GitHub Actions
+- **Integrations:** Stripe, Google Maps, Firebase, Tigris Storage
 
-     ### 🏛️ [Politician Trading Tracker](https://politician-trading-tracker.streamlit.app)
+[🔗 Try Outlet](https://www.outlet.rent) | [📱 View Code](https://github.com/EverlongTechnologies/Outlet)
 
-     [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io)
-     [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://python.org)
+---
 
-     A transparency tool that tracks and visualizes stock trades made by U.S. politicians using public disclosure data.
+### 🏛️ [Politician Trading Tracker](https://politician-trading-tracker.streamlit.app)
 
-     **✨ Features:**
-     - 📈 Real-time politician stock trade tracking
-     - 📊 Interactive data visualizations
-     - 🔍 Search and filter by politician, stock, or date
-     - 💰 Trade volume and timing analysis
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://python.org)
 
-     **🛠️ Built with:** Python, Streamlit, Pandas, Public APIs
+A transparency tool that tracks and visualizes stock trades made by U.S. politicians using public disclosure data.
 
-     [🔗 View Tracker](https://politician-trading-tracker.streamlit.app)
+**✨ Features:**
 
-     ---
+- 📈 Real-time politician stock trade tracking
+- 📊 Interactive data visualizations
+- 🔍 Search and filter by politician, stock, or date
+- 💰 Trade volume and timing analysis
 
-     ## 💻 Tech Stack
+**🛠️ Built with:** Python, Streamlit, Pandas, Public APIs
 
-     ### Languages
-     ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-     ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white)
-     ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-     ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-     ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-     ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-     ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+[🔗 View Tracker](https://politician-trading-tracker.streamlit.app)
 
-     ### Frameworks & Tools
-     ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-     ![Phoenix](https://img.shields.io/badge/Phoenix-FF6600?style=flat-square&logo=phoenixframework&logoColor=white)
-     ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-     ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-     ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-     ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-     ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-     ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+---
 
-     ### Cloud & DevOps
-     ![Fly.io](https://img.shields.io/badge/Fly.io-7B3FF2?style=flat-square&logo=fly.io&logoColor=white)
-     ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-     ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-     ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+## 💻 Tech Stack
 
-     ---
+### Languages
 
-     ## 🎓 About Me
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-     - 🎓 **Currently:** Pursuing MS in Computer Science @ **UIUC**
-     - ⚛ **Role:** Full Stack Software Engineer
-     - 🔨 **Working on:** [Outlet](https://www.outlet.rent) - EV Charging Marketplace
-     - 👀 **Primary stack:** Flutter, Elixir/Phoenix, TypeScript, Python
-     - ⏳ **Experience with:** C, C++, Java, distributed systems
-     - 💞️ **Passion:** Building accessible technology and spreading knowledge
-     - 🌱 **Interests:** Clean energy, civic tech, data transparency, mobile development
+### Frameworks & Tools
 
-     ---
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Phoenix](https://img.shields.io/badge/Phoenix-FF6600?style=flat-square&logo=phoenixframework&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-     ## 📊 GitHub Stats
+### Cloud & DevOps
 
-     <div align="center">
+![Fly.io](https://img.shields.io/badge/Fly.io-7B3FF2?style=flat-square&logo=fly.io&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
-     ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gwicho38&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+---
 
-     ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gwicho38&layout=compact&theme=radical&hide_border=true&langs_count=8)
+## 🎓 About Me
 
-     ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gwicho38&theme=radical&hide_border=true)
+- 🎓 **Currently:** Pursuing MS in Computer Science @ **UIUC**
+- ⚛ **Role:** Full Stack Software Engineer
+- 🔨 **Working on:** [Outlet](https://www.outlet.rent) - EV Charging Marketplace
+- 👀 **Primary stack:** Flutter, Elixir/Phoenix, TypeScript, Python
+- ⏳ **Experience with:** C, C++, Java, distributed systems
+- 💞️ **Passion:** Building accessible technology and spreading knowledge
+- 🌱 **Interests:** Clean energy, civic tech, data transparency, mobile development
 
-     </div>
+---
 
-     ---
+## 📊 GitHub Stats
 
-     ## 🏆 Highlights
+<div align="center">
 
-     - 🚀 Built and deployed production full-stack marketplace app (iOS/Android/Web)
-     - ⚡ Architected real-time EV charging platform with Phoenix/Elixir backend
-     - 💳 Integrated Stripe Connect for multi-party payment processing
-     - 🗺️ Implemented geospatial search with PostgreSQL + PostGIS
-     - 🧪 Achieved 100+ automated tests with CI/CD pipeline
-     - 📱 Shipped cross-platform mobile apps to App Store and Google Play
-     - 🏛️ Created civic transparency tools for public accountability
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gwicho38&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 
-     ---
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gwicho38&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
-     ## 🤝 Let's Connect!
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gwicho38&theme=radical&hide_border=true)
 
-     I'm always happy to collaborate and spread access to technology! Whether you're interested in:
-     - 🚗 EV infrastructure and clean energy tech
-     - 🏛️ Civic tech and government transparency
-     - 📱 Mobile app development
-     - ⚡ Real-time systems and distributed architectures
-     - 🎓 Computer science education
+</div>
 
-     **Feel free to reach out:**
+---
 
-     [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/lefv)
-     [![Email](https://img.shields.io/badge/Email-luis@lefv.io-D14836?style=for-the-badge&logo=gmail)](mailto:luis@lefv.io)
-     [![Website](https://img.shields.io/badge/Website-lefv.info-00ADD8?style=for-the-badge&logo=google-chrome)](https://www.lefv.info)
+## 🏆 Highlights
 
-     ---
+- 🚀 Built and deployed production full-stack marketplace app (iOS/Android/Web)
+- ⚡ Architected real-time EV charging platform with Phoenix/Elixir backend
+- 💳 Integrated Stripe Connect for multi-party payment processing
+- 🗺️ Implemented geospatial search with PostgreSQL + PostGIS
+- 🧪 Achieved 100+ automated tests with CI/CD pipeline
+- 📱 Shipped cross-platform mobile apps to App Store and Google Play
+- 🏛️ Created civic transparency tools for public accountability
 
-     <div align="center">
+---
 
-     ### 💡 "Building technology that makes a difference"
+## 🤝 Let's Connect!
 
-     ![Profile Views](https://komarev.com/ghpvc/?username=gwicho38&color=blueviolet&style=flat-square)
+I'm always happy to collaborate and spread access to technology! Whether you're interested in:
 
-     </div>
+- 🚗 EV infrastructure and clean energy tech
+- 🏛️ Civic tech and government transparency
+- 📱 Mobile app development
+- ⚡ Real-time systems and distributed architectures
+- 🎓 Computer science education
 
-     ---
+**Feel free to reach out:**
 
-     <!---
-     gwicho38/gwicho38 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-     You can click the Preview link to take a look at your changes.
-     --->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/lefv)
+[![Email](https://img.shields.io/badge/Email-luis@lefv.io-D14836?style=for-the-badge&logo=gmail)](mailto:luis@lefv.io)
+[![Website](https://img.shields.io/badge/Website-lefv.info-00ADD8?style=for-the-badge&logo=google-chrome)](https://www.lefv.info)
+
+---
+
+<div align="center">
+
+### 💡 "Building technology that makes a difference"
+
+![Profile Views](https://komarev.com/ghpvc/?username=gwicho38&color=blueviolet&style=flat-square)
+
+</div>
+
+---
+
+<!---
+gwicho38/gwicho38 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
