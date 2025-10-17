@@ -62,6 +62,30 @@ A transparency tool that tracks and visualizes stock trades made by U.S. politic
 
 ---
 
+### 📦 [lsh-framework](https://www.npmjs.com/package/lsh-framework) - NPM Package
+
+[![npm](https://img.shields.io/npm/v/lsh-framework?logo=npm)](https://www.npmjs.com/package/lsh-framework)
+[![npm downloads](https://img.shields.io/npm/dt/lsh-framework)](https://www.npmjs.com/package/lsh-framework)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://www.npmjs.com/package/lsh-framework)
+
+A locality-sensitive hashing framework for JavaScript/TypeScript applications.
+
+[📚 View on NPM](https://www.npmjs.com/package/lsh-framework)
+
+---
+
+### 🐍 [mcli-framework](https://pypi.org/project/mcli-framework/) - PyPI Package
+
+[![PyPI](https://img.shields.io/pypi/v/mcli-framework?logo=pypi)](https://pypi.org/project/mcli-framework/)
+[![PyPI downloads](https://img.shields.io/pypi/dm/mcli-framework)](https://pypi.org/project/mcli-framework/)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://pypi.org/project/mcli-framework/)
+
+A modern CLI framework for Python applications.
+
+[📚 View on PyPI](https://pypi.org/project/mcli-framework/)
+
+---
+
 ## 💻 Tech Stack
 
 ### Languages
@@ -129,10 +153,11 @@ A transparency tool that tracks and visualizes stock trades made by U.S. politic
 - 🧪 Achieved 100+ automated tests with CI/CD pipeline
 - 📱 Shipped cross-platform mobile apps to App Store and Google Play
 - 🏛️ Created civic transparency tools for public accountability
+- 📦 Published open-source packages to NPM and PyPI
 
 ---
 
-## 🤝 Let's Connect!
+## 🤝 Let's Connect
 
 I'm always happy to collaborate and spread access to technology! Whether you're interested in:
 
@@ -140,6 +165,7 @@ I'm always happy to collaborate and spread access to technology! Whether you're 
 - 🏛️ Civic tech and government transparency
 - 📱 Mobile app development
 - ⚡ Real-time systems and distributed architectures
+- 📦 Open source package development
 - 🎓 Computer science education
 
 **Feel free to reach out:**
