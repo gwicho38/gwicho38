@@ -76,8 +76,8 @@ A locality-sensitive hashing framework for JavaScript/TypeScript applications.
 
 ### 🐍 [mcli-framework](https://pypi.org/project/mcli-framework/) - PyPI Package
 
-[![PyPI](https://img.shields.io/pypi/v/mcli-framework?logo=pypi)](https://pypi.org/project/mcli-framework/)
-[![PyPI downloads](https://img.shields.io/pypi/dm/mcli-framework)](https://pypi.org/project/mcli-framework/)
+[![PyPI](https://img.shields.io/pypi/v/mcli-framework?logo=pypi&logoColor=white)](https://pypi.org/project/mcli-framework/)
+[![PyPI downloads](https://static.pepy.tech/badge/mcli-framework/month)](https://pepy.tech/project/mcli-framework)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://pypi.org/project/mcli-framework/)
 
 A modern CLI framework for Python applications.
