@@ -4,7 +4,7 @@
 [![Website](https://img.shields.io/badge/Website-lefv.info-00ADD8?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.lefv.info)
 [![Email](https://img.shields.io/badge/Email-luis@lefv.io-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luis@lefv.io)
 
-**Full Stack Software Engineer | MS in CS @ UIUC**
+**Software Engineer | MS in CS @ UIUC | JS @ NYU Law | CS @ FSU | Economics @ FIU **
 
 </div>
 
