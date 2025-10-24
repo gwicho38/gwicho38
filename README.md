@@ -121,7 +121,7 @@ A modern CLI framework for Python applications.
 ## 🎓 About Me
 
 - 🎓 **Currently:** Pursuing MS in Computer Science @ **UIUC**
-- ⚛ **Role:** Full Stack Software Engineer
+- ⚛ **Role:** Software Engineer, Founder
 - 🔨 **Working on:** [Outlet](https://www.outlet.rent) - EV Charging Marketplace
 - 👀 **Primary stack:** Flutter, Elixir/Phoenix, TypeScript, Python
 - ⏳ **Experience with:** C, C++, Java, distributed systems
