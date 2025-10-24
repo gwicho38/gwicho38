@@ -14,7 +14,7 @@
 
 ### ⚡ [Outlet](https://www.outlet.rent) - EV Charging Marketplace
 
-> *Airbnb for Electric Vehicle Charging*
+> *P2P Electric Vehicle Charging*
 
 [![Outlet Tests](https://github.com/EverlongTechnologies/Outlet/actions/workflows/test-validation.yml/badge.svg)](https://github.com/EverlongTechnologies/Outlet)
 [![Flutter](https://img.shields.io/badge/Flutter-3.0+-02569B?logo=flutter)](https://flutter.dev)
