@@ -86,6 +86,18 @@ A modern CLI framework for Python applications.
 
 ---
 
+### 🔌 [mcli-framework](https://marketplace.visualstudio.com/items?itemName=gwicho38.mcli-framework) - VS Code Extension
+
+[![VS Code Marketplace](https://img.shields.io/visual-studio-marketplace/v/gwicho38.mcli-framework?logo=visual-studio-code&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=gwicho38.mcli-framework)
+[![VS Code Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/gwicho38.mcli-framework)](https://marketplace.visualstudio.com/items?itemName=gwicho38.mcli-framework)
+[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+
+Visual Studio Code extension for mcli-framework integration and workflow management.
+
+[📚 View on Marketplace](https://marketplace.visualstudio.com/items?itemName=gwicho38.mcli-framework)
+
+---
+
 ## 💻 Tech Stack
 
 ### Languages
@@ -153,7 +165,8 @@ A modern CLI framework for Python applications.
 - 🧪 Achieved 100+ automated tests with CI/CD pipeline
 - 📱 Shipped cross-platform mobile apps to App Store and Google Play
 - 🏛️ Created civic transparency tools for public accountability
-- 📦 Published open-source packages to NPM and PyPI
+- 📦 Published open-source packages to NPM, PyPI, and VS Code Marketplace
+- 🔌 Developed VS Code extension for CLI workflow management
 
 ---
 
