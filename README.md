@@ -42,47 +42,85 @@ A full-stack peer-to-peer marketplace connecting EV drivers with charging statio
 
 ---
 
-### 🏛️ [Politician Trading Tracker](https://politician-trading-tracker.streamlit.app)
+### 🏛️ [GovMarket.trade](https://govmarket.trade) - Politician Trading Tracker
 
-[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io)
+[![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)](https://react.dev)
+[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)](https://supabase.com)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://typescriptlang.org)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://python.org)
 
-A transparency tool that tracks and visualizes stock trades made by U.S. politicians using public disclosure data.
+A transparency platform that tracks and analyzes stock trades made by politicians worldwide using public disclosure data.
 
 **✨ Features:**
 
-- 📈 Real-time politician stock trade tracking
-- 📊 Interactive data visualizations
-- 🔍 Search and filter by politician, stock, or date
-- 💰 Trade volume and timing analysis
+- 📈 Real-time politician stock trade tracking with ML-powered signals
+- 🌍 Global coverage: US Congress, UK Parliament, EU Parliament, US States
+- 📊 Interactive dashboard with portfolio tracking and order management
+- 🔍 Comprehensive scrapers for official government sources
+- 🤖 Automated data collection with scheduling and monitoring
 
-**🛠️ Built with:** Python, Streamlit, Pandas, Public APIs
+**🛠️ Tech Stack:**
 
-[🔗 View Tracker](https://politician-trading-tracker.streamlit.app)
+- **Frontend:** React, TypeScript, Tailwind CSS
+- **Backend:** Supabase (PostgreSQL + Edge Functions)
+- **Data Pipeline:** Python scrapers, ML preprocessing
+- **Sources:** US House/Senate, UK Parliament, EU Parliament, State disclosures
+
+[🔗 Live Platform](https://govmarket.trade) | [📱 View Code](https://github.com/gwicho38/politician-trading-tracker)
 
 ---
 
-### 📦 [lsh-framework](https://www.npmjs.com/package/lsh-framework) - NPM Package
+### 🔐 [lsh-framework](https://www.npmjs.com/package/lsh-framework) - Encrypted Secrets Manager
 
 [![npm](https://img.shields.io/npm/v/lsh-framework?logo=npm)](https://www.npmjs.com/package/lsh-framework)
 [![npm downloads](https://img.shields.io/npm/dt/lsh-framework)](https://www.npmjs.com/package/lsh-framework)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://www.npmjs.com/package/lsh-framework)
+[![Node.js CI](https://github.com/gwicho38/lsh/actions/workflows/node.js.yml/badge.svg)](https://github.com/gwicho38/lsh/actions)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://typescriptlang.org)
 
-A locality-sensitive hashing framework for JavaScript/TypeScript applications.
+The simplest way to sync `.env` files across all your machines. AES-256 encrypted secrets with IPFS storage.
 
-[📚 View on NPM](https://www.npmjs.com/package/lsh-framework)
+**✨ Features:**
+
+- 🔒 AES-256-CBC encryption for all secrets
+- ☁️ Zero-config IPFS sync via Storacha network
+- 🔄 Multi-environment support (dev, staging, prod)
+- 👥 Team collaboration with shared encryption keys
+- ⏰ Automatic secret rotation with built-in daemon
+- 📤 Export to JSON, YAML, TOML, or shell exports
+
+```bash
+npm install -g lsh-framework
+lsh init && lsh sync
+```
+
+[📚 View on NPM](https://www.npmjs.com/package/lsh-framework) | [📱 View Code](https://github.com/gwicho38/lsh)
 
 ---
 
-### 🐍 [mcli-framework](https://pypi.org/project/mcli-framework/) - PyPI Package
+### 🐍 [mcli-framework](https://pypi.org/project/mcli-framework/) - Universal Script Runner
 
 [![PyPI](https://img.shields.io/pypi/v/mcli-framework?logo=pypi&logoColor=white)](https://pypi.org/project/mcli-framework/)
 [![PyPI downloads](https://static.pepy.tech/badge/mcli-framework/month)](https://pepy.tech/project/mcli-framework)
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://pypi.org/project/mcli-framework/)
+[![Tests](https://github.com/gwicho38/mcli/actions/workflows/ci.yml/badge.svg)](https://github.com/gwicho38/mcli/actions)
+[![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)](https://pypi.org/project/mcli-framework/)
 
-A modern CLI framework for Python applications.
+Run any script, anywhere, with intelligent tab completion. Transform scripts into versioned, schedulable workflows.
 
-[📚 View on PyPI](https://pypi.org/project/mcli-framework/)
+**✨ Features:**
+
+- 🚀 Zero-config script execution (Python, Shell, Jupyter notebooks)
+- 📦 Portable workflows stored in `~/.mcli/workflows/`
+- 🔄 IPFS cloud sync for immutable workflow sharing
+- ⏰ Built-in scheduler and daemon support
+- 🔗 Lockfile versioning for reproducibility
+- 🤖 AI chat integration (OpenAI, Anthropic, Ollama)
+
+```bash
+pip install mcli-framework
+mcli run ./script.py  # Run any script instantly
+```
+
+[📚 View on PyPI](https://pypi.org/project/mcli-framework/) | [📱 View Code](https://github.com/gwicho38/mcli)
 
 ---
 
@@ -92,9 +130,40 @@ A modern CLI framework for Python applications.
 [![VS Code Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/gwicho38.mcli-framework)](https://marketplace.visualstudio.com/items?itemName=gwicho38.mcli-framework)
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
-Visual Studio Code extension for mcli-framework integration and workflow management.
+Visual Studio Code extension for mcli-framework with Jupyter-like workflow editing.
+
+**✨ Features:**
+
+- 📝 Cell-based editing interface for workflow JSON files
+- ⚡ Live code execution (Python, Shell, Bash, Zsh, Fish)
+- 🎯 Monaco editor with IntelliSense
+- 📊 Rich markdown documentation cells
 
 [📚 View on Marketplace](https://marketplace.visualstudio.com/items?itemName=gwicho38.mcli-framework)
+
+---
+
+### 🖥️ [Nativefier](https://github.com/gwicho38/nativefier) - Maintained Fork
+
+[![npm](https://img.shields.io/badge/npm-v53.0.0-CB3837?logo=npm&logoColor=white)](https://www.npmjs.com/package/nativefier)
+[![Electron](https://img.shields.io/badge/Electron-39.0.0-47848F?logo=electron&logoColor=white)](https://electronjs.org)
+[![Node.js](https://img.shields.io/badge/Node.js-18+-339933?logo=node.js&logoColor=white)](https://nodejs.org)
+
+A maintained fork of the archived Nativefier project. Wrap any web app into a native desktop application.
+
+**✨ Features:**
+
+- 🌐 Convert any website to a desktop app (macOS, Windows, Linux)
+- 🎨 Automatic icon and name retrieval
+- 💉 Custom JS & CSS injection support
+- 🐳 Docker support for cross-platform builds
+
+```bash
+npm install -g nativefier
+nativefier 'web.whatsapp.com'
+```
+
+[📱 View Code](https://github.com/gwicho38/nativefier)
 
 ---
 
