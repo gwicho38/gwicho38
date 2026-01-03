@@ -215,9 +215,8 @@ nativefier 'web.whatsapp.com'
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gwicho38&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gwicho38&layout=compact&theme=radical&hide_border=true&langs_count=8)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gwicho38&theme=radical)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gwicho38&theme=radical)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=gwicho38&theme=radical&hide_border=true)
 
