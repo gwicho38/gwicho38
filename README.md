@@ -38,7 +38,7 @@ A full-stack peer-to-peer marketplace connecting EV drivers with charging statio
 - **Infrastructure:** Fly.io, Docker, GitHub Actions
 - **Integrations:** Stripe, Google Maps, Firebase, Tigris Storage
 
-[🔗 Try Outlet](https://www.outlet.rent) | [📱 View Code](https://github.com/EverlongTechnologies/Outlet)
+[🔗 Try Outlet](https://www.outlet.rent)
 
 ---
 
