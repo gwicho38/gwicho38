@@ -219,7 +219,7 @@ nativefier 'web.whatsapp.com'
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gwicho38&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gwicho38&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=gwicho38&theme=radical&hide_border=true)
 
 </div>
 
